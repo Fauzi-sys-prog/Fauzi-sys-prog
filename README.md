@@ -1,10 +1,21 @@
 # Hi 👋 I'm Ahmad Fauzi
 
-💻 Fullstack Web Developer from Indonesia
+💻 Fullstack Software Developer from Indonesia
 
-I build modern, scalable web applications using **Next.js, TypeScript, Node.js, and PostgreSQL**.
+I build **modern operational systems and scalable web applications** using  
+**Next.js, TypeScript, Node.js, and PostgreSQL**.
 
-I focus on building **high-performance business systems, ecommerce platforms, and custom web applications** for companies and startups.
+My focus is developing **business platforms, operational dashboards, and industrial management systems** for companies and organizations.
+
+---
+
+# 🧠 Core Expertise
+
+• Business Management Systems  
+• Workshop & Production Management Platforms  
+• Operational Dashboards  
+• Custom Enterprise Applications  
+• API Development & System Integration  
 
 ---
 
@@ -33,35 +44,40 @@ I focus on building **high-performance business systems, ecommerce platforms, an
 
 ---
 
-# 🧠 Solutions I Build
+# 🏭 Industrial System Development
 
-I help businesses build modern web systems such as:
+One of my main focuses is building **operational platforms for companies** such as:
 
-• Ecommerce platforms  
-• Company profile websites  
-• Admin dashboards  
-• Business management systems  
-• API services  
-• Payment integration systems  
+• Workshop Management Systems  
+• Fabrication Production Control  
+• Project & Approval Workflow Systems  
+• Quality Control Platforms  
+• Production Monitoring Dashboards  
+• Logistics & Supply Chain Tools  
 
----
-
-# 💼 Services
-
-Professional services I provide:
-
-• Fullstack Web Development  
-• Ecommerce Development  
-• REST API Development  
-• System Architecture  
-• Database Design  
-• Custom Business Applications  
+These systems help companies manage **projects, production workflows, reporting, and operational efficiency**.
 
 ---
 
 # 📌 Featured Projects
 
-### 🛒 Ecommerce Website
+### 🏭 Workshop Production Management System
+Operational platform for managing workshop fabrication processes including:
+
+• Project management  
+• Work order control  
+• Production monitoring  
+• Quality control inspection  
+• Daily production reporting  
+• Delivery timeline tracking  
+
+Tech Stack:
+
+Next.js • Node.js • TypeScript • PostgreSQL • Prisma
+
+---
+
+### 🛒 Ecommerce Platform
 Modern ecommerce platform built with **Next.js, TypeScript, and modern UI**.
 
 🔗 https://github.com/Fauzi-sys-prog/ecommerce-next
@@ -82,14 +98,26 @@ Professional company profile website for businesses.
 
 ---
 
+# 💼 Services
+
+I provide development services for businesses and organizations:
+
+• Fullstack Web Application Development  
+• Business System Development  
+• Operational Dashboard Systems  
+• Production Management Systems  
+• REST API Development  
+• Database Architecture & System Design  
+
+---
+
 # ⭐ Why Work With Me
 
 • Clean and maintainable code  
-• Modern tech stack  
-• Scalable system architecture  
-• Fast development process  
+• Modern scalable architecture  
+• Real-world business system experience  
 • Clear communication  
-• Long-term support  
+• Long-term support for projects  
 
 ---
 
@@ -102,14 +130,14 @@ Professional company profile website for businesses.
 # 📫 Contact
 
 📧 Email  
-ahmadfauziiiiiii7@email.com
+ahmadfauziiiiiii7@email.com  
 
 💬 WhatsApp  
-+62 821 1158 9506
++62 821 1158 9506  
 
 🌏 Location  
 Indonesia
 
 ---
 
-⭐ If you're interested in working together, feel free to reach out.
+⭐ If you're interested in working together or building a custom system for your business, feel free to reach out.
