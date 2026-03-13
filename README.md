@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋 I'm Ahmad Fauzi
 
-<!--
-**Fauzi-sys-prog/Fauzi-sys-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Web Developer from Indonesia
 
-Here are some ideas to get you started:
+I build modern web applications using **Next.js, TypeScript, and Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+Frontend
+- Next.js
+- React
+- Tailwind CSS
+
+Backend
+- Node.js
+- Express
+
+ORM
+- Prisma
+
+Database
+- PostgreSQL
+- MySQL
+
+Tools
+- Git
+- Docker
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Ecommerce Website
+Next.js ecommerce platform with modern UI.
+
+https://github.com/Fauzi-sys-prog/ecommerce-next
+
+### 🍰 Cake Shop Website
+Online cake shop web application.
+
+https://github.com/Fauzi-sys-prog/cake_shop
+
+### 🏢 Company Profile Website
+Business website project.
+
+https://github.com/Fauzi-sys-prog/pt_gema
+
+---
+
+## 📊 GitHub Stats
+
+![Fauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzi-sys-prog&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
++62 0821 1158 9506
+Indonesia
