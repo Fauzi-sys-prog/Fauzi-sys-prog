@@ -57,5 +57,7 @@ https://github.com/Fauzi-sys-prog/pt_gema
 ---
 
 ## 📫 Contact
-+62 0821 1158 9506
+Email: ahmadfauziiiiiii7@email.com
+Business inquiries: email
+whast apps: +62 821 1158 9506
 Indonesia
